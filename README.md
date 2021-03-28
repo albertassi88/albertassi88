@@ -14,9 +14,9 @@ I believe that people are the key to success and that's why, in addition to dedi
 
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoPDRS&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=albertassi88&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoPDRS&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=albertassi88&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ---
