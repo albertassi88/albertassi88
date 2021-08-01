@@ -1,16 +1,8 @@
-### Hey there! Welcome to my GitHub Page!
-Here you'll have access to my projects and my learning timeline!
+### Apresentação
 
-## I'm Ruben Albertassi
+Sou formado em Sistemas de Informação pela Faculdade UGB - Centro Universitário Geraldo Di Biase de Volta Redonda-RJ, o que me levou a me apaixonar por programação.
 
-# Here's some info about me:
-
-I love using codes to help me solve my day-by-day problems. 
-
-I have a degree in Information Systems from Faculdade UGB - Geraldo Di Biase University Center in Volta Redonda-RJ, which led me to fall in love with programming.
-
-I am a student of Software Developer at Trybe, the trybe is a school for people who want to build a successful career in technology.
-I believe that people are the key to success and that's why, in addition to dedicating myself to hard skills, I also try to improve my soft skills every day. Therefore, I strongly believe that teamwork and quality work will achieve the best results, faster and healthier in the long run.
+Sou estudante de Desenvolvedor de Software na Trybe, o trybe é uma escola para pessoas que desejam construir uma carreira de sucesso em tecnologia. Acredito que as pessoas são a chave do sucesso e é por isso que, além de me dedicar ao hard skills, também procuro aprimorar meu soft skills a cada dia. Por isso, acredito fortemente que o trabalho em equipe e de qualidade proporcionarão os melhores resultados, de forma mais rápida e saudável no longo prazo.
 
 ---
 
