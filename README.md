@@ -1,8 +1,7 @@
 ### Apresentação
 
-Sou formado em Sistemas de Informação pela Faculdade UGB - Centro Universitário Geraldo Di Biase de Volta Redonda-RJ, o que me levou a me apaixonar por programação.
-
-Sou estudante de Desenvolvedor de Software na Trybe, o trybe é uma escola para pessoas que desejam construir uma carreira de sucesso em tecnologia. Acredito que as pessoas são a chave do sucesso e é por isso que, além de me dedicar ao hard skills, também procuro aprimorar meu soft skills a cada dia. Por isso, acredito fortemente que o trabalho em equipe e de qualidade proporcionarão os melhores resultados, de forma mais rápida e saudável no longo prazo.
+Sou Graduado em Sistemas de Informação pela Faculdade UGB - Centro Universitário Geraldo Di Biase de Volta Redonda-RJ, o que me levou a apaixonar por programação.
+Sou Estudante de Desenvolvimento de Software na Trybe, uma escola que em sua metodologia de ensino provoca em seus alunos uma experiência real do dia a dia de trabalho de um desenvolvedor de software, com muito trabalho em equipe e mão na massa.
 
 ---
 
