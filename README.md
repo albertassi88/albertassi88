@@ -12,11 +12,5 @@ Sou Estudante de Desenvolvimento de Software na Trybe, uma escola que em sua met
 
 ---
 
-:email:  Contact me:
-
-
-:mailbox: albertassi88@gmail.com
-
-:briefcase: https://www.linkedin.com/in/ruben-albertassi/
 
 
