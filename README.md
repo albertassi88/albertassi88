@@ -1,7 +1,7 @@
 ### Apresentação
 
 Sou Graduado em Sistemas de Informação pela Faculdade UGB - Centro Universitário Geraldo Di Biase de Volta Redonda-RJ, o que me levou a apaixonar por programação.
-Sou Estudante de Desenvolvimento de Software na Trybe, uma escola que em sua metodologia de ensino provoca em seus alunos uma experiência real do dia a dia de trabalho de um desenvolvedor de software, com muito trabalho em equipe e mão na massa.
+Sou Estudante de Desenvolvimento de Software na Trybe, uma escola que em sua metodologia de ensino provoca em seus alunos uma experiência real do dia a dia de trabalho de um desenvolvedor de software.
 
 ---
 
