@@ -1,7 +1,8 @@
 ### Apresentação
 
-Sou Graduado em Sistemas de Informação pela Faculdade UGB - Centro Universitário Geraldo Di Biase de Volta Redonda-RJ, o que me levou a apaixonar por programação.
-Sou Estudante de Desenvolvimento de Software na Trybe, uma escola que em sua metodologia de ensino provoca em seus alunos uma experiência real do dia a dia de trabalho de um desenvolvedor de software.
+Sou encantado por inovação e tecnologia, acredito no trabalho de transformar o complexo em algo simples, impactando positivamente a vida das pessoas. Sou formado em Sistemas de Informação, o que me levou a apaixonar por programação.
+Atualmente sou estudante de desenvolvimento de software na Trybe, ao longo da formação, estudamos JavaScript, HTML, CSS, React, Node, Express.js, SQL, Git, entre outras linguagens e frameworks.
+Estou a procura de uma equipe para trabalhar e me desenvolver, e assim, ingressar no mercado de trabalho.
 
 ---
 
