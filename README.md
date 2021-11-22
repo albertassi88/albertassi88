@@ -2,7 +2,6 @@
 
 Sou encantado por inovação e tecnologia, acredito no trabalho de transformar o complexo em algo simples, impactando positivamente a vida das pessoas. Sou formado em Sistemas de Informação, o que me levou a apaixonar por programação.
 Atualmente sou estudante de desenvolvimento de software na Trybe, ao longo da formação, estudamos JavaScript, HTML, CSS, React, Node, Express.js, SQL, Git, entre outras linguagens e frameworks.
-Estou a procura de uma equipe para trabalhar e me desenvolver, e assim, ingressar no mercado de trabalho.
 
 📝 Veja meu Portfólio <a href="https://portfolio-ruben.vercel.app/" target="_blank">clicando aqui</a>.
 
