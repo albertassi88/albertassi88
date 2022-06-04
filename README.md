@@ -2,8 +2,6 @@
 
 Sou encantado por inovação e tecnologia, acredito no trabalho de transformar o complexo em algo simples, impactando positivamente a vida das pessoas. Sou formado em Sistemas de Informação, o que me levou a apaixonar por programação.
 
-📝 Veja meu Portfólio <a href="https://portfolio-ruben.vercel.app/" target="_blank">clicando aqui</a>.
-
 <br />
 <a href="https://www.linkedin.com/in/ruben-albertassi/" target="_blank">
   <img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
